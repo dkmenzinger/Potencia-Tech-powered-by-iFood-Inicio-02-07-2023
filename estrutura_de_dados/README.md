@@ -1,16 +1,33 @@
-# Potência Tech powered by iFood
-"🚀 Desafio de um Sistema Bancário na linguagem Python 🐍
- 
-🏦 Sistema Bancário:
+📂 Conteúdo do Repositório
 
-Este é um projeto de sistema bancário desenvolvido em Python, para atender às necessidades de modernização das operações de um grande banco.
+O repositório está organizado em diferentes seções, cada uma abordando uma estrutura de dados específica:
 
-⚙️ Funcionalidades:
+🧮 Conjuntos 
 
-A primeira versão do sistema possui as seguintes funcionalidades:
+Definição e operações com conjuntos
+Exemplos de uso
+Complexidade das operações
 
-💰 Depósito: Permite depositar valores positivos na conta bancária. Os depósitos são armazenados em uma variável e são exibidos na operação de extrato.
+📚 Dicionários 
 
-💸 Saque: Permite realizar saques com um limite máximo de R$ 500,00 por saque. O sistema permite até 3 saques diários. Caso o usuário não tenha saldo em conta, uma mensagem é exibida informando que não é possível realizar o saque por falta de saldo. Os saques realizados são armazenados em uma variável e são exibidos na operação de extrato.
+Definição e operações com dicionários
+Exemplos de uso
+Complexidade das operações
 
-📝 Extrato: Lista todos os depósitos e saques realizados na conta, bem como o saldo atual. Os valores são exibidos no formato "R$ xxx.xx".
+🎯 Funções 
+
+Implementação de funções relacionadas a estruturas de dados
+Exemplos de uso
+Complexidade das operações
+
+📜 Listas 
+
+Definição e operações com listas
+Exemplos de uso
+Complexidade das operações
+
+🔄 Tuplas 
+
+Definição e operações com tuplas
+Exemplos de uso
+Complexidade das operações

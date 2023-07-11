@@ -1,5 +1,5 @@
 conta_normal = False
-conta_universotaria = False
+conta_universitaria = False
 conta_especial = True
 
 saldo = 2000

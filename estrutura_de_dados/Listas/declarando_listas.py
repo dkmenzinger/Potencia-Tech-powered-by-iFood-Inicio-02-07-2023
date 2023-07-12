@@ -7,6 +7,13 @@
 frutas = ["laranja", "maca", "uva", "pera"]
 print(frutas)
 
+print(frutas[0]) # laranja
+print(frutas[1]) # maca
+print(frutas[2]) # uva
+print(frutas[3]) # pera
+
+print(frutas[-1]) #  Sequências suportam indexação negativa. A contagem começa em -1.
+print(frutas[-2])
 frutas = []
 
 letras = list("python")
